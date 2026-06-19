@@ -211,9 +211,6 @@ from bam_in_gilead_hospital.patient
 group by gender;
 -- *Result:* The distribution of gender is Male 52 and Female 48.
 ```
-![ERD Diagram](visuals/erd.png)
-*[Brief caption: e.g., "Three-table schema - orders, customers, and products joined on shared IDs."]*
-
 ---
 
 ## 8. Key Insights
