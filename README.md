@@ -258,8 +258,8 @@ group by gender;
 *Vivian Okwara*
 Data Analyst | Lagos, Nigeria
 
-- 🔗 [LinkedIn](https://linkedin.com/in/okwara-vivian)
-- 🌐 [Portfolio](https://Vivian-Portfolio.github.io)
+- 🔗 https://linkedin.com/in/okwara-vivian
+- 🌐 https://Vivian-Portfolio.github.io
 - 📧 okwaravivian26@gmail.com
 
 ---
