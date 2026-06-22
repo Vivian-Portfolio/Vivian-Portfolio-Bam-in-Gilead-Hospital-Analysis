@@ -1,6 +1,6 @@
 # Bam in Gilead Hopsital - Patient Data Analysis uisng SQL 
 > Bam in Gilead Hospital is a healthcare center that serves patients across different regions. The hospital collects data on patient visits, diagnoses, medications, cholesterol levels, and demographics.
-This mini project uses real patient data to demonstrate how **SQL can be used** to analyze healthcare information, answer real-world questions, and extract meaningful insights from structured data.
+This mini project uses sample patient data to demonstrate how **SQL can be used** to analyze healthcare information, answer real-world questions, and extract meaningful insights from structured data.
 
 ---
 
